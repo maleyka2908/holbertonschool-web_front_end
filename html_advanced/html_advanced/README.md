@@ -1,1 +1,1 @@
-Internal README for html_advanced
+This is the README for the advanced HTML tasks.
