@@ -1,1 +1,1 @@
-This is the README for the advanced HTML tasks.
+This is the README for the advanced HTML directory.
