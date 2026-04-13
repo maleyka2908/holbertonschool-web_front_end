@@ -1,1 +1,1 @@
-Main README for the project
+This directory contains all advanced HTML tasks.
